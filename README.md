@@ -5,3 +5,5 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ungyeolyang&show_icons=true&include_all_commits=true&hide_rank=true)](https://github.com/ungyeolyang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ungyeolyang&layout=compact)](https://github.com/ungyeolyang/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuy8150)](https://solved.ac/yuy8150/)
+
